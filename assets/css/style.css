@@ -1,0 +1,63 @@
+body{
+	background-image: url(../images/nevadaRoad.jpg);
+	/*background-repeat: no-repeat;*/
+	background-size: 100%, 75%;
+	background position: fixed;
+}
+
+header{
+	font-size: 80px;
+	text-align: center;
+	font-family: 'Bangers', cursive;
+
+}
+
+p{
+	color:red;
+	font-size: 30px;
+	background-color: black;
+	width: 150px;
+
+} 
+
+button{
+	background-color: black;
+	color:#7FFF00;
+	font-size: 25px;
+	clear: both;
+	font-family: 'Dosis', sans-serif;
+}
+button:hover{
+	background-color: #7FFF00;
+	color:black;
+	font-size: 30px;
+	clear: both;
+	border: 2px, ridge, black;
+}
+
+#search{
+	width: 250px;
+	padding: 7px;
+	border: 2px, solid, black;
+	margin-top: 15px;
+}
+#searchBtn{
+	padding: 8px;
+	color: 	yellow;
+	background: black;
+	border: 2px, solid, black;
+	margin-left: -5px;
+	margin-top: 15px;
+	font-size: 16px;
+	width: 140px; 
+};
+
+
+
+.item{
+	float: right;
+	width:250px;
+	margin: 10px;
+} 
+
+
