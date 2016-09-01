@@ -10,10 +10,11 @@ header{
 	text-align: center;
 	font-family: 'Bangers', cursive;
 }
-h1{
+
+#instruct{
 	font-size: 30px;
 	text-align: center;
-	font-family: 'Bangers', cursive;
+	font-family: 'Dosis', sans-serif;
 }
 
 p{
@@ -59,7 +60,7 @@ button:hover{
 
 
 .item{
-	float: right;
+	float: left;
 	width:250px;
 	margin: 10px;
 } 
